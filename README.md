@@ -22,6 +22,7 @@ https://glerme.github.io/Codar/
 
 
 #Página criada com o objetivo de criar sites responsivos. Fiz algumas modificações do projeto inicial
+<br>
 <a href="https://www.linkedin.com/in/glerme/">Contato</a>
 
 
